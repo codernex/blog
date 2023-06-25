@@ -18,6 +18,14 @@ const config = {
     locales: ["en"],
     defaultLocale: "en",
   },
+  images: {
+    domains: [
+      "source.unsplash.com",
+      "img.freepik.com",
+      "avatars.githubusercontent.com",
+      "cloudflare-ipfs.com",
+    ],
+  },
 };
 
 export default config;
